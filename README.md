@@ -23,12 +23,22 @@
 ### 👤 About Me
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,blender,photoshop,figma,illustrator" alt="Technologies & Tools" />
-  <p>
-    <strong>Full-Stack Developer</strong> &nbsp; | &nbsp; <strong>Creative Designer</strong>
-  </p>
-  <p><em>Turning ideas into interactive experiences</em></p>
-  <p><strong>Achievement:</strong> 2nd Runner-Up, 1st Animation Festival</p>
+  <table>
+    <tr>
+      <td align="center" style="padding-right:50px;">
+        <h3>📊 GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Overall GitHub Stats" />
+      </td>
+      <td align="center" style="padding-left:50px;">
+        <h3>🥇 Most Used Languages</h3>
+        <p>
+          <img src="https://progress-bar.dev/60?title=JavaScript&color=F7DF1E" alt="JavaScript - 60%" /><br>
+          <img src="https://progress-bar.dev/38?title=C%23&color=239120" alt="C# - 38%" /><br>
+          <img src="https://progress-bar.dev/1?title=C%2B%2B&color=00599C" alt="C++ - 1%" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
