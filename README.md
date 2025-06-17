@@ -33,26 +33,22 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <!-- GitHub Stats -->
-      ### 📊 GitHub Stats
-      <p align="center">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding-right:50px;">
+        <h3>📊 GitHub Stats</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Overall GitHub Stats" />
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <!-- Most Used Languages -->
-      ### 🥇 Most Used Languages
-      <p align="center">
-        <img src="https://progress-bar.dev/60?title=JavaScript&color=F7DF1E" alt="JavaScript - 60%" />
-        <img src="https://progress-bar.dev/38?title=C%23&color=239120" alt="C# - 38%" />
-        <img src="https://progress-bar.dev/1?title=C%2B%2B&color=00599C" alt="C++ - 1%" />
-      </p>
-    </td>
-  </tr>
-</table>
+      </td>
+      <td align="center" style="padding-left:50px;">
+        <h3>🥇 Most Used Languages</h3>
+        <img src="https://progress-bar.dev/60/?title=JavaScript&color=F7DF1E" alt="JavaScript - 60%" /><br/>
+        <img src="https://progress-bar.dev/38/?title=C%23&color=239120" alt="C# - 38%" /><br/>
+        <img src="https://progress-bar.dev/1/?title=C%2B%2B&color=00599C" alt="C++ - 1%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
