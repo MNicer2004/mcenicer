@@ -1,5 +1,5 @@
-<h1 align="center">Front End Developer</h1>
-<p align="center">Hi, I'm <strong>Your Name</strong> 👋</p>
+<h1 align="center">Developer</h1>
+<p align="center">Hi, I'm <strong>Mark Christian E. Nicer</strong> 👋</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏫 Studying Computer Science at [Your University]
+- 🏫 Studying Information Technology at [Urdaneta City University]
 - 💻 I love contributing to open-source ([Hacktoberfest](https://hacktoberfest.com), SWOC, GSSoC).
 - ✍️ I write blogs on [Dev.to](https://dev.to).
 - 🎧 I enjoy reading, calisthenics, and music.
