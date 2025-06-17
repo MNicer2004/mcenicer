@@ -31,7 +31,7 @@
 <p><em>Turning ideas into interactive experiences</em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/🏆-2nd%20Runner-Up%201st%20Animation%20Festival-ff69b4?style=flat-square" alt="Achievement"/>
+  <strong>Achievement:</strong> 2nd Runner-Up, 1st Animation Festival
 </p>
 
 </div>
@@ -52,9 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Overall GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+---
+
+### 🏅 Top Languages
+
+JavaScript • Python • Java • HTML • CSS
 
 ---
 
