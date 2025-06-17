@@ -1,3 +1,8 @@
+<!-- 🎌 Luffy Animated Banner (top) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="200" height="200" />
+</p>
+
 <!-- 🔮 Futuristic Welcome Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Mark+Christian+E.+Nicer;Creative+Dev+%7C+3D+Artist+%7C+UI%2FUX+Visionary" />
@@ -9,7 +14,7 @@
 
 <!-- 🧠 Skill Icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,figma,ps,ai,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,git,figma,ps,ai,blender&theme=dark" />
 </p>
 
 ---
@@ -39,6 +44,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
@@ -48,17 +54,14 @@
 ---
 
 <h2 align="center">
-  🏆 Achievements & Highlights
+  🏆 Achievements
 </h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MNicer2004&theme=radical&row=1&column=4" />
-</p>
-
 <ul>
-  <li>🥇 Participated in multiple design hackathons and UI battles</li>
-  <li>📦 Contributed to several open-source projects in web and creative tech</li>
-  <li>🧩 Built 3D assets for web animations and prototyping tools</li>
+  <li>✔️ Completed multiple creative development projects</li>
+  <li>✔️ Participated in UI/UX and 3D design showcases</li>
+  <li>✔️ Built interactive web interfaces and design prototypes</li>
+  <li>✔️ Contributed to innovative design-tool pipelines</li>
 </ul>
 
 ---
