@@ -52,11 +52,11 @@
 ### 🥇 Most Used Languages
 
 <p align="center">
-  <img src="https://progress-bar.dev/60/?title=JavaScript&color=F7DF1E" />
-  <img src="https://progress-bar.dev/50/?title=Python&color=3776AB" />
-  <img src="https://progress-bar.dev/40/?title=Java&color=007396" />
-  <img src="https://progress-bar.dev/30/?title=HTML&color=E34F26" />
-  <img src="https://progress-bar.dev/20/?title=CSS&color=1572B6" />
+  <img src="https://progress-bar.dev/60?title=JavaScript&color=F7DF1E" alt="JavaScript" />
+  <img src="https://progress-bar.dev/50?title=Python&color=3776AB" alt="Python" />
+  <img src="https://progress-bar.dev/40?title=Java&color=007396" alt="Java" />
+  <img src="https://progress-bar.dev/30?title=HTML&color=E34F26" alt="HTML" />
+  <img src="https://progress-bar.dev/20?title=CSS&color=1572B6" alt="CSS" />
 </p>
 
 #### ⚡ Fun Facts
