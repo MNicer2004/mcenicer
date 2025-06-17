@@ -1,9 +1,11 @@
 <!-- Wave Header -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hey%2C%20I'm%20[Your%20Name]!&fontSize=40&fontColor=ffffff&animation=twinkling" alt="header"/>
 </p>
 
 <!-- Profile & Contact Badges -->
+
 <p align="center">
   <a href="https://github.com/yourusername">
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"/>
@@ -38,13 +40,13 @@
 
 ---
 
+<!--
 ### 🚀 Featured Projects
 
 - [**BrainCode**](https://github.com/yourusername/braincode) – Interactive programming quiz game.  
 - [**PhysioBalance**](https://github.com/yourusername/physiobalance) – Online rehab & coaching platform.  
 - [**FilipinoLingua**](https://github.com/yourusername/filipinolingua) – Duolingo-style dialect app.
-
----
+-->
 
 ### 📊 GitHub Stats
 
@@ -54,17 +56,21 @@
 
 ---
 
-### 🏅 Top Languages
+### 🏅 Most Used Languages
 
-JavaScript • Python • Java • HTML • CSS
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-70%25-3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-60%25-007396" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML-50%25-E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-40%25-1572B6" alt="CSS" />
+</p>
 
 #### ⚡ Fun Facts
 
-- 🧩 I solve bugs like puzzles.  
-- ☕ Fueled by coffee & creativity.  
-- 🎨 I blend code & design for engaging experiences.
+* 🧩 I solve bugs like puzzles.
+* ☕ Fueled by coffee & creativity.
+* 🎨 I blend code & design for engaging experiences.
 
 ---
 
