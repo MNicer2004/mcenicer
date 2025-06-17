@@ -33,31 +33,28 @@
 
 ---
 
-<!--
-### 🚀 Featured Projects
-
-- [**BrainCode**](https://github.com/yourusername/braincode) – Interactive programming quiz game.
-- [**PhysioBalance**](https://github.com/yourusername/physiobalance) – Online rehab & coaching platform.
-- [**FilipinoLingua**](https://github.com/yourusername/filipinolingua) – Duolingo-style dialect app.
--->
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Overall GitHub Stats" />
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <!-- GitHub Stats -->
+      ### 📊 GitHub Stats
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Overall GitHub Stats" />
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <!-- Most Used Languages -->
+      ### 🥇 Most Used Languages
+      <p align="center">
+        <img src="https://progress-bar.dev/60?title=JavaScript&color=F7DF1E" alt="JavaScript - 60%" />
+        <img src="https://progress-bar.dev/38?title=C%23&color=239120" alt="C# - 38%" />
+        <img src="https://progress-bar.dev/1?title=C%2B%2B&color=00599C" alt="C++ - 1%" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
-
-### 🥇 Most Used Languages
-
-<p align="center">
-  <img src="https://progress-bar.dev/60?title=JavaScript&color=F7DF1E" alt="JavaScript" />
-  <img src="https://progress-bar.dev/50?title=Python&color=3776AB" alt="Python" />
-  <img src="https://progress-bar.dev/40?title=Java&color=007396" alt="Java" />
-  <img src="https://progress-bar.dev/30?title=HTML&color=E34F26" alt="HTML" />
-  <img src="https://progress-bar.dev/20?title=CSS&color=1572B6" alt="CSS" />
-</p>
 
 #### ⚡ Fun Facts
 
