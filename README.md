@@ -1,5 +1,6 @@
 <h1 align="center">Developer</h1>
-<p align="center">Hi, I'm <strong>Mark Christian E. Nicer</strong> 👋</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+I'm+Mark+Christian+E.+Nicer)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
