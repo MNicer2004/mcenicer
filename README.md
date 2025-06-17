@@ -1,68 +1,83 @@
-<!-- Banner Image (optional, replace with your own) -->
+<!-- Futuristic banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=200&section=header&text=Mark%20Christian%20E.%20Nicer&fontSize=40&fontColor=ffffff" alt="banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3500&pause=1000&color=00FFF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+there%2C+I'm+Mark+Christian+E.+Nicer.;Creative+Front-End+Dev+%2B+3D+Designer+%2B+UI%2FUX+Visionary" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Front-End%20+%20Creative%20Developer;UI%2FUX%20Designer%20+%203D%20Artist;Code.%20Design.%20Create." />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Mark Christian E. Nicer** — a passionate creative developer who blends **code, design, and visual storytelling**. I love turning ideas into polished digital experiences, whether that's through websites, 3D animation, or interactive UI design.
-
-- 🔥 Skilled in **HTML**, **CSS**, **JavaScript**, **Java**, **Git**, **Figma**, and **Adobe Suite**
-- 🎨 3D artist & designer using **Blender**, **Photoshop**, and **Illustrator**
-- 🧠 Constantly learning, building, and exploring the edge of creativity and tech
-
----
-
-## 🛠 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:youremail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" /></a>
-</p>
-
----
-
-## ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MNicer2004&theme=radical&show_icons=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNicer2004&layout=compact&theme=radical" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1f1f1f&height=2"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,figma,ps,ai,blender" />
 </p>
 
 ---
 
-## 📌 Fun Facts
+<h2 align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="24"> About Me
+</h2>
 
-- 🚀 I mix **art + code** to bring digital projects to life.
-- 🎮 I like to design **interactive UIs** and play with **3D animation**.
-- ☕ Powered by late nights and iced coffee.
+<div align="center">
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/images/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+<p align="center">
+  I'm a multi-disciplinary digital creative. Whether it's writing sleek front-end code, crafting immersive 3D visuals, or designing delightful interfaces — I build **experiences** that resonate.
+</p>
+
+- 🔭 Currently building: futuristic UIs and animated interfaces
+- ⚡ Fun fact: I use Blender to prototype animations for my web designs
+- 💬 Ask me about: combining development + design for unforgettable products
 
 ---
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="24"> My Digital Stack
+</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer" />
+  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Design-Figma-purple?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="24"> GitHub Analytics
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MNicer2004&show_icons=true&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MNicer2004&theme=dracula&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNicer2004&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="24"> Let's Connect
+</h2>
+
+<p align="center">
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1f1f1f&height=100&section=footer"/>
 </p>
