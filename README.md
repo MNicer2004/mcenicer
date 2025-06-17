@@ -5,15 +5,13 @@
 
 <!-- Profile & Contact Badges -->
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"/>
+  <a href="https://github.com/MNicer2004">
+    <img src="https://img.shields.io/github/followers/MNicer2004?label=Follow&style=social" alt="GitHub Followers"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mcreationstudio1@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  
 </p>
 
 ---
@@ -25,24 +23,19 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,blender,photoshop,figma,illustrator" alt="Technologies & Tools" />
 
 <p>
-  <strong>Full-Stack Developer</strong> &nbsp; | &nbsp; <strong>Creative Designer</strong>
+  <strong>Developer</strong> &nbsp; | &nbsp; <strong>Creative Designer</strong>
 </p>
 
 <p><em>Turning ideas into interactive experiences</em></p>
 
 <p>
-  <strong>Achievement:</strong> 2nd Runner-Up, 1st Animation Festival
+  <strong>Achievement:</strong> 2nd Runner-Up, 1st Animation Festival 첫번째 애니메이션 페스티벌 of Lorma Colleges
 </p>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
-
-- [**BrainCode**](https://github.com/yourusername/braincode) – Interactive programming quiz game.  
-- [**PhysioBalance**](https://github.com/yourusername/physiobalance) – Online rehab & coaching platform.  
-- [**FilipinoLingua**](https://github.com/yourusername/filipinolingua) – Duolingo-style dialect app.
 
 ---
 
@@ -54,7 +47,7 @@
 
 ---
 
-### 🏅 Top Languages
+### 🏅 Most Used Language
 
 JavaScript • Python • Java • HTML • CSS
 
